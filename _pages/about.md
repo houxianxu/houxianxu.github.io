@@ -16,4 +16,4 @@ social: false  # includes social icons at the bottom of the page
 importance: 1
 ---
 
-I am a deep learning researcher with a focus on generative modeling and its applications in image manipulation. My goal is to create more realistic and controllable generated images through the use of these techniques. I received my Ph.D. from the University of Nottingham in 2018, and my master's and bachelor's degrees from China University of Mining and Technology (Beijing) in 2011 and 2014, respectively. I was born in the beautiful city of [Enshi](https://en.wikipedia.org/wiki/Enshi_City), Hubei Province, China.
+I am a deep learning researcher with a focus on generative modeling and its applications in image manipulation. My goal is to create more realistic and controllable generated images through the use of these techniques. I received my Ph.D. from the University of Nottingham in 2018, and my master's and bachelor's degrees from China University of Mining and Technology (Beijing) in 2014 and 2011, respectively. I was born in the beautiful city of [Enshi](https://en.wikipedia.org/wiki/Enshi_City), Hubei Province, China.
