@@ -3,7 +3,7 @@ layout: aboutnew
 title: About
 permalink: /
 description: >
-    <p>Associate Researcher<br>College of Computer Science and Software Engineering <br>Shenzhen University</p>
+    <p>Assistant Professor<br>School of AI and Advanced Computing<br>Xi’an Jiaotong-Liverpool University</p>
 
 profile:
   align: right
